@@ -1,0 +1,8 @@
+Model: YOLOv8n FP32
+
+Precision: 0.5177
+Recall: 0.5484
+mAP50: 0.5498
+mAP50-95: 0.2701
+Epochs: 30
+Dataset: Construction PPE

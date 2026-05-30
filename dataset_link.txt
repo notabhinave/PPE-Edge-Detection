@@ -1,0 +1,11 @@
+Construction PPE Dataset
+
+Source:
+https://docs.ultralytics.com/datasets/detect/construction-ppe
+
+Dataset Statistics:
+
+* Total Images: 1416
+* Train: 1132
+* Validation: 143
+* Test: 141

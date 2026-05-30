@@ -1,0 +1,13 @@
+venv/
+
+**pycache**/
+
+*.pyc
+
+runs/
+
+*.pt
+*.onnx
+
+.DS_Store
+Thumbs.db
