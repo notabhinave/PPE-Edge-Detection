@@ -185,7 +185,7 @@ PPE-Edge-Detection/
 
 ## Demo Video
 
-Add your YouTube / Google Drive / Loom video link here.
+(https://youtu.be/Gu51hlunKuo?si=xSzHLdNQ7RD9j8zJ)
 
 ---
 
